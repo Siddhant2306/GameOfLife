@@ -16,3 +16,13 @@ These rules are applied to every cell in the grid for the next generation:
 
 4. **Reproduction**  
    Any dead cell with exactly three live neighbors becomes a live cell.
+
+
+   ## 🧩 Setup (No CMake required)
+
+1️⃣ Clone this repo  
+```bash
+git clone https://github.com/<your-username>/GameOfLife.git
+cd GameOfLife
+
+setup_sfml.bat

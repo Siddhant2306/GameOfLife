@@ -1,17 +1,22 @@
-# Ignore build output
+# === Build output ===
 build/
-
-# VS Code settings
-.vscode/
-
-# OS junk files
-.DS_Store
-Thumbs.db
-
-# Compiled binaries
+bin/
+lib/
+includes/
 *.exe
 *.obj
 *.o
 *.pdb
 *.dll
 *.so
+*.lib
+*.a
+
+# === IDE files ===
+.vscode/
+
+# === CMake files ===
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
