@@ -1,3 +1,6 @@
+## This is a very famous programming challenge called *GameOfLife*. 
+ By the help of this project we can make programs which are turing complete . As we can see here, in our program it starts with the entropy and follows up till the still life state . It is capable of attaining complexicity from 0 to infinity or vice versa .
+
 ## The Four Rules of Conway’s Game of Life
 
 These rules are applied to every cell in the grid for the next generation:
