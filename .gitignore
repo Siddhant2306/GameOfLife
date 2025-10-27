@@ -1,0 +1,17 @@
+# Ignore build output
+build/
+
+# VS Code settings
+.vscode/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Compiled binaries
+*.exe
+*.obj
+*.o
+*.pdb
+*.dll
+*.so
