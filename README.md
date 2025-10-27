@@ -22,7 +22,7 @@ These rules are applied to every cell in the grid for the next generation:
 
 1️⃣ Clone this repo  
 ```bash
-git clone https://github.com/<your-username>/GameOfLife.git
+git clone https:/siddhant2306/github.com//GameOfLife.git
 cd GameOfLife
 
 setup_sfml.bat
